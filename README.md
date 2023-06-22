@@ -4,12 +4,10 @@
 
 I'm revo coder of Arakkhaland. Arakkhaland is strange for you. He is Rakhine of Myanmar. Sorry! I just kid you. I'm fullstack developer && I'm learning Cyber Security.
 
-Skills: PHP(LARAVEL) / C++ / HTML / CSS / JS / PYTHON
+Skills: php(laravel) / reactjs / nodejs / js / html / css / python
 
 - 🌱 I’m currently learning everything from everywhere. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/revocoder0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/revocoder0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/unknow.coder01)  
-
-
 
