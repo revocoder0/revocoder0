@@ -1,12 +1,15 @@
 ### Hi there 👋,
 
 💻Revo😍Coder💻
-#### I am fullstack developer.
+#### I am nothing.
 ![I am fullstack developer.](https://cdn.metatime.com/landing/blog/1686575019blobid0.jpg)
 
-I'm revo coder of Arakkhaland. Arakkhaland is strange for you. He is Rakhine of Myanmar. Sorry! I just kid you. I'm fullstack developer && I'm learning Cyber Security.
+" There is no Impossible under the SUN."
 
-Skills: php(laravel) / reactjs / nodejs / js / html / css / python
+I'm Nothing NOW. But I am trying to be NIJA for Crber Security.
+
+ php(laravel) / reactjs / nodejs / js / html / css / python / C++
+
 
 - 🌱 I’m always learning everything from everywhere. 
 
